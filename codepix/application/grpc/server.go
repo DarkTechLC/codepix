@@ -2,9 +2,9 @@ package grpc
 
 import (
 	"fmt"
-	"github.com/darktech/codepix/application/grpc/pb"
-	"github.com/darktech/codepix/application/usecase"
-	"github.com/darktech/codepix/infrastructure/repository"
+	"github.com/darktechlc/codepix/application/grpc/pb"
+	"github.com/darktechlc/codepix/application/usecase"
+	"github.com/darktechlc/codepix/infrastructure/repository"
 	"github.com/jinzhu/gorm"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
